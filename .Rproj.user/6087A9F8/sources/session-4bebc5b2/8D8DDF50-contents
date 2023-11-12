@@ -1,0 +1,15 @@
+Package: rscdczx
+Type: Package
+Title: Data preprocessing for cdc
+Version: 1.0.0
+Author: person('George','Zhou',email = 'python73737@gmail.com',role = c('aut','cre))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Preprocessing of infectious disease reporting card data
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    tidyr
+RoxygenNote: 7.2.3
